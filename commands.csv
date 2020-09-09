@@ -1,0 +1,177 @@
+commandsdescriptions
+        short for print
+        work directory;it
+        prints the path
+        of the working
+        directory,starting
+pwd     from the root.
+        short form
+        “make
+        directory.”;
+        allows users to
+        create or make
+mkdir   new directories.
+        short for
+        copy;This
+        command is
+        used to copy
+        files or group of
+cp      files or directory
+        short for secure
+        copy; it copies
+        files/folders
+        between servers
+scp     in secure way.
+        short for GNU
+        compiler
+        collections; it is
+        used to compile
+        programs of
+        mainly C and
+gcc     C++ languages
+        it is used to
+        terminate
+        processes
+kill    manually.
+        short for change
+        mode; it is used
+        to change the
+        access mode of
+chmod   a file.
+        short for change
+        owner; it
+        changes the
+        user and/or
+        group ownership
+        of a given file,
+chown   directory, or link
+         is used to
+        display line of
+        text/string that
+        are passed as
+echo    an argument
+         is used to
+        search and
+        locate the list of
+        files and
+        directories
+        based on
+        conditions you
+find    specify
+        short for lists; is
+        used for listing
+        the contents of a
+        directory or
+ls      directories
+        short fro remove
+        directory;is used
+        remove empty
+        directories from
+        the filesystem in
+rmdir   Linux
+        short for move
+        file;it moves files
+        or directories
+        from one place
+mv      to another
+         short for
+         manual;it is
+         used to display
+         the user manual
+         of any command
+         that can run on
+         the terminal
+man
+         it is used to build
+         executable
+         programs and
+         libraries from
+make     source code
+         it is is used to
+         show the Linux
+top      processes.
+         short for
+         “concatenate“; is
+         used to
+         concatenate
+cat      files
+         short for disk
+         free; it displays
+         information
+         related to file
+         systems about
+         total and
+df       available space
+         it is used to exit
+         the shell where
+         it is currently
+exit     running.
+         it user
+         information
+         lookup
+         command which
+         gives details of
+         all the users
+finger   logged in
+         short for change
+         directory; it is
+         used to change
+         the current
+         working
+cd       directory
+         short for
+         remove; it is
+         used to remove
+         objects such as
+         files, directories,
+rm       symbolic links
+         short for secure
+         shell; It is a
+         protocol used to
+         securely
+         connect to a
+         remote
+ssh      server/system
+         it is used
+         generate an
+         executable file
+         for c++
+g++      programs
+         short for
+         process;it is
+         used for viewing
+         information
+         related with the
+         processes on a
+ps       system
+         who displays a
+         list of users who
+         are currently
+         logged into the
+who      computer.
+        it is used to
+        avoid typing
+        long commands
+        or as a means to
+        correct incorrect
+alias   input
+
+        short for global
+        regular
+        expression
+        print;it is used to
+        search a file for
+        patterns
+        specified by the
+grep    user
+        it is used to
+        clear the
+clear   terminal screen
+        it is used to
+        display the
+        amount of free
+        space available
+        in the memory
+        along with the
+free    amount used.
+
