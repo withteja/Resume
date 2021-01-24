@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//timeanddate.com//Event Time Announcer
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20201119T143500Z
+DTEND:20201119T153500Z
+TRANSP:TRANSPARENT
+SUMMARY:Event Time Announcer
+DESCRIPTION:Time when the event takes place: \n\nMoscow: Thursday, 19 Nove
+ mber 2020, 17:35\nHyderabad: Thursday, 19 November 2020, 20:05\n\nTime in
+  some other locations:\n\nSydney: Friday, 20 November 2020, 01:35\nTokyo:
+  Thursday, 19 November 2020, 23:35\nBeijing: Thursday, 19 November 2020, 
+ 22:35\nNew Delhi: Thursday, 19 November 2020, 20:05\nParis: Thursday, 19 
+ November 2020, 15:35\nLondon: Thursday, 19 November 2020, 14:35\nBuenos A
+ ires: Thursday, 19 November 2020, 11:35\nNew York: Thursday, 19 November 
+ 2020, 09:35\nLos Angeles: Thursday, 19 November 2020, 06:35\n\n\nList gen
+ erated using timeanddate.com's Event Time Announcer\nhttp://www.timeandda
+ te.com/worldclock/fixedtime.html?iso=20201119T1735&p1=166\n
+LOCATION:Moscow
+URL;VALUE=URI:http://www.timeanddate.com/worldclock/fixedtime.html?iso=202
+ 01119T1735&p1=166
+UID:http://www.timeanddate.com/worldclock/fixedtime.html?iso=20201119T1735
+ &p1=166
+DTSTAMP:20201119T143500Z
+END:VEVENT
+END:VCALENDAR
