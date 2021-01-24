@@ -256,6 +256,30 @@ ul#nav li.current a { color: #F06000; }
 #resume h3 {
    font: 25px/30px 'opensans-bold', sans-serif;
 }
+#sum1,#sum2{
+   font-family: "Archivo Black", sans-serif;
+   font-weight: normal;
+   text-align: center;
+   margin-bottom: 0;
+   margin-bottom: -0.25em;
+   background-color: #c6ffdd;
+  
+   /* Create the gradient. */
+   /* background-image: linear-gradient(to right, #544a7d, #ffd452); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   background-image: radial-gradient( circle 321px at 8.3% 75.7%,  rgba(209,247,241,1) 0%, rgba(249,213,213,1) 81% ); 
+   background-image: linear-gradient( 135deg, #FFF5C3 10%, #9452A5 100%);
+   /* Set the background size and repeat properties. */
+   background-size: 100%;
+   
+   background-repeat: repeat;
+ 
+   /* Use the text as a mask for the background. */
+   /* This will show the gradient as a text color rather than element bg. */
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent; 
+   -moz-background-clip: text;
+   -moz-text-fill-color: transparent;
+}
 
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }

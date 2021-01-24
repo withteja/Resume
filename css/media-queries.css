@@ -33,12 +33,14 @@
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
+      
       font: 17px/1.9em 'Libre Baskerville', serif;
       width: 80%;
    }
    header .banner-text hr {
       width: 65%;
       margin: 12px auto;
+      
    }
    /* nav-wrap */
    #nav-wrap {
